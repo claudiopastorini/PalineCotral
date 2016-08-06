@@ -1,0 +1,46 @@
+{
+  "capabilities": [
+    "location"
+  ],
+  "companyName": "Claudio Pastorini",
+  "longName": "Paline Cotral",
+  "resources": {
+    "media": [
+      {
+        "file": "images/menu_icon.png",
+        "menuIcon": true,
+        "name": "IMAGE_MENU_ICON",
+        "type": "bitmap"
+      },
+      {
+        "file": "images/logo_splash.png",
+        "name": "IMAGE_LOGO_SPLASH",
+        "type": "bitmap"
+      },
+      {
+        "file": "images/tile_splash.png",
+        "name": "IMAGE_TILE_SPLASH",
+        "type": "bitmap"
+      },
+      {
+        "file": "fonts/UbuntuMono-Regular.ttf",
+        "name": "MONO_FONT_14",
+        "type": "font"
+      }
+    ]
+  },
+  "sdkVersion": "3",
+  "shortName": "Cotral",
+  "targetPlatforms": [
+    "aplite",
+    "basalt",
+    "chalk"
+  ],
+  "uuid": "21b6f391-9988-4d7f-933e-c13304f3dd6e",
+  "versionCode": 1,
+  "versionLabel": "0.1",
+  "watchapp": {
+    "hiddenApp": false,
+    "watchface": false
+  }
+}
